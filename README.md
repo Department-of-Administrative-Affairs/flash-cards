@@ -1,6 +1,7 @@
 # Flash-cards
 
-These are the flashcards I used to prepare for exams at my university.
+These are the flashcards I used to prepare for exams at my university. 
+Please note that these are **onl**y for use by people in the *Discrete Mathematics* course, and any use by *Computer Scientists* will **not be tolerated.**
 
 # Randomised
 
@@ -25,3 +26,6 @@ This deck is incomplete, but the exam is really easy.
 # Neural Computing
 
 This deck is mostly complete.
+
+# Copyright
+CC BY-NC-SA.
