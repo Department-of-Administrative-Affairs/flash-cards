@@ -28,4 +28,5 @@ This deck is incomplete, but the exam is really easy.
 This deck is mostly complete.
 
 # Copyright
-CC BY-NC-SA.
+CC BY-NC-SA, with the additional restriction that only people doing a mathematics pure or mixed course may use the cards for revision, with computer scientists explictily excluded from using them for revision.
+
