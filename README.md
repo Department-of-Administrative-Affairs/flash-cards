@@ -11,6 +11,7 @@ The deck is complete WRT the content I studied, but you may need to add more car
 
 This exam is fundamentally about understanding, but the lecturer does expect you to memorise the definitions of problems, and there is some recall for the very last part on approximation algorithms.
 IIRC this deck is not complete, so you will need to create more cards.
+There was also one card with an image (I think it was the SAT–Independent Set reduction) which had an image from the notes which I removed out of fear of the lecturer, but you should reädd as it's more helpful than the textual description.
 
 # MML
 The exam is basically a copy and paste every year. 
