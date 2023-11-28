@@ -22,6 +22,7 @@ You would need to create further cards for basically every exam question that ha
 # CLT
 
 This deck is incomplete, but the exam is really easy.
+Follow the same advice as MML (there are two exams).
 
 # Neural Computing
 
